@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaiwaxahw.hermens.com.au/sitemap.xml
